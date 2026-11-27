@@ -35,3 +35,8 @@ context/
 
 # Work log (kept locally only)
 TASKS.md
+
+# Development notes and logs stay local: only the README is published
+*.md
+!README.md
+Build/Linux/FileOpenOrder/

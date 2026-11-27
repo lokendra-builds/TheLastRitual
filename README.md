@@ -114,5 +114,5 @@ Launch flags used for automated tests: `-FastHunts`, `-AutoHide`, `-AutoFight=<s
 
 ## Assets and licences
 
-All third-party art is CC0 from [Poly Haven](https://polyhaven.com); every asset is listed in
-[`docs/ASSET-LICENCES.md`](docs/ASSET-LICENCES.md). No audio files: all sound is generated in code.
+All third-party art is CC0 from [Poly Haven](https://polyhaven.com) (sources in `SourceArt/polyhaven_manifest.json`).
+No audio files: all sound is generated in code.
