@@ -1,0 +1,21 @@
+# Binary assets are committed directly (no Git LFS yet; every file is under 50 MB).
+# To move them to LFS later:  git lfs install && git lfs migrate import --include="*.uasset,*.umap,*.png,*.jpg,*.wav,*.mp4"
+*.uasset binary
+*.umap   binary
+*.png    binary
+*.jpg    binary
+*.jpeg   binary
+*.exr    binary
+*.fbx    binary
+*.glb    binary
+*.wav    binary
+*.mp4    binary
+
+# Text files: Unix line endings
+*.cpp text eol=lf
+*.h   text eol=lf
+*.cs  text eol=lf
+*.ini text eol=lf
+*.py  text eol=lf
+*.sh  text eol=lf
+*.md  text eol=lf

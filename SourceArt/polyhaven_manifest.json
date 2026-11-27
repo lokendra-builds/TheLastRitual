@@ -1,0 +1,348 @@
+{
+ "rough_plaster_broken": {
+  "kind": "texture",
+  "title": "Rough Plaster Broken",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "dimensions_mm": [
+   1500,
+   1500
+  ],
+  "url": "https://polyhaven.com/a/rough_plaster_broken",
+  "licence": "CC0"
+ },
+ "worn_tile_floor": {
+  "kind": "texture",
+  "title": "Worn Tile Floor",
+  "authors": [
+   "Dimitrios Savva"
+  ],
+  "dimensions_mm": [
+   2000,
+   2000
+  ],
+  "url": "https://polyhaven.com/a/worn_tile_floor",
+  "licence": "CC0"
+ },
+ "red_sandstone_pavement": {
+  "kind": "texture",
+  "title": "Red Sandstone Pavement",
+  "authors": [
+   "Amal Kumar"
+  ],
+  "dimensions_mm": [
+   2150.0000953674316,
+   2150.0000953674316
+  ],
+  "url": "https://polyhaven.com/a/red_sandstone_pavement",
+  "licence": "CC0"
+ },
+ "rough_wood": {
+  "kind": "texture",
+  "title": "Rough Wood",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "dimensions_mm": [
+   500,
+   500
+  ],
+  "url": "https://polyhaven.com/a/rough_wood",
+  "licence": "CC0"
+ },
+ "sandstone_cracks": {
+  "kind": "texture",
+  "title": "Sandstone Cracks",
+  "authors": [
+   "Rob Tuytel"
+  ],
+  "dimensions_mm": [
+   2000,
+   2000
+  ],
+  "url": "https://polyhaven.com/a/sandstone_cracks",
+  "licence": "CC0"
+ },
+ "rustic_stone_wall": {
+  "kind": "texture",
+  "title": "Rustic Stone Wall",
+  "authors": [
+   "Dimitrios Savva"
+  ],
+  "dimensions_mm": [
+   1519.9998617172241,
+   1519.9998617172241
+  ],
+  "url": "https://polyhaven.com/a/rustic_stone_wall",
+  "licence": "CC0"
+ },
+ "planter_pot_clay": {
+  "kind": "model",
+  "title": "Planter Pot Clay",
+  "authors": [
+   "Amal Kumar"
+  ],
+  "dimensions_mm": [
+   265.9967243671417,
+   263.4630501270294,
+   221.87034250237048
+  ],
+  "url": "https://polyhaven.com/a/planter_pot_clay",
+  "licence": "CC0"
+ },
+ "ceramic_pot": {
+  "kind": "model",
+  "title": "Ceramic Pot",
+  "authors": [
+   "Aron \u0141yczek"
+  ],
+  "dimensions_mm": [
+   656.2502980232239,
+   501.7523765563965,
+   371.66545377112925
+  ],
+  "url": "https://polyhaven.com/a/ceramic_pot",
+  "licence": "CC0"
+ },
+ "ceramic_vase_04": {
+  "kind": "model",
+  "title": "Ceramic Vase 04",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "dimensions_mm": [
+   183.31684917211533,
+   181.98027461767197,
+   342.3411250114441
+  ],
+  "url": "https://polyhaven.com/a/ceramic_vase_04",
+  "licence": "CC0"
+ },
+ "wooden_crate_01": {
+  "kind": "model",
+  "title": "Wooden Crate 01",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "dimensions_mm": [
+   825.2729177474976,
+   408.9537411928177,
+   349.6182831004262
+  ],
+  "url": "https://polyhaven.com/a/wooden_crate_01",
+  "licence": "CC0"
+ },
+ "wooden_crate_02": {
+  "kind": "model",
+  "title": "Wooden Crate 02",
+  "authors": [
+   "James Ray Cock",
+   "Jurita Burger"
+  ],
+  "dimensions_mm": [
+   1166.325867176056,
+   529.1010439395905,
+   463.95453810691833
+  ],
+  "url": "https://polyhaven.com/a/wooden_crate_02",
+  "licence": "CC0"
+ },
+ "Lantern_01": {
+  "kind": "model",
+  "title": "Lantern 01",
+  "authors": [
+   "Rajil Jose Macatangay"
+  ],
+  "dimensions_mm": [
+   122.08568677306175,
+   97.18310832977295,
+   294.2466139793396
+  ],
+  "url": "https://polyhaven.com/a/Lantern_01",
+  "licence": "CC0"
+ },
+ "wooden_lantern_01": {
+  "kind": "model",
+  "title": "Wooden Lantern 01",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "dimensions_mm": [
+   221.04809433221817,
+   234.72441732883453,
+   530.1365610212088
+  ],
+  "url": "https://polyhaven.com/a/wooden_lantern_01",
+  "licence": "CC0"
+ },
+ "brass_diya_lantern": {
+  "kind": "model",
+  "title": "Brass Diya Lantern",
+  "authors": [
+   "Bhargav Kubal"
+  ],
+  "dimensions_mm": [
+   123.00453707575798,
+   123.00454080104828,
+   380.8239474892616
+  ],
+  "url": "https://polyhaven.com/a/brass_diya_lantern",
+  "licence": "CC0"
+ },
+ "treasure_chest": {
+  "kind": "model",
+  "title": "Treasure Chest",
+  "authors": [
+   "Rico Cilliers"
+  ],
+  "dimensions_mm": [
+   959.0365290641785,
+   522.853434085846,
+   618.9745217561722
+  ],
+  "url": "https://polyhaven.com/a/treasure_chest",
+  "licence": "CC0"
+ },
+ "spinning_wheel_01": {
+  "kind": "model",
+  "title": "Spinning Wheel 01",
+  "authors": [
+   "Sofia Pahaoja"
+  ],
+  "dimensions_mm": [
+   489.3998056650162,
+   1024.8570144176483,
+   966.2211883987766
+  ],
+  "url": "https://polyhaven.com/a/spinning_wheel_01",
+  "licence": "CC0"
+ },
+ "vintage_grandfather_clock_01": {
+  "kind": "model",
+  "title": "Vintage Grandfather Clock 01",
+  "authors": [
+   "Yann Kervran",
+   "James Ray Cock"
+  ],
+  "dimensions_mm": [
+   996.6365396976471,
+   795.2136099338531,
+   2190.5919313430786
+  ],
+  "url": "https://polyhaven.com/a/vintage_grandfather_clock_01",
+  "licence": "CC0"
+ },
+ "wooden_bucket_01": {
+  "kind": "model",
+  "title": "Wooden Bucket 01",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "dimensions_mm": [
+   366.97085201740265,
+   342.2211855649948,
+   549.862340092659
+  ],
+  "url": "https://polyhaven.com/a/wooden_bucket_01",
+  "licence": "CC0"
+ },
+ "brass_pot_01": {
+  "kind": "model",
+  "title": "Brass Pot 01",
+  "authors": [
+   "Rico Cilliers"
+  ],
+  "dimensions_mm": [
+   301.94565653800964,
+   301.69259011745453,
+   290.94765486661345
+  ],
+  "url": "https://polyhaven.com/a/brass_pot_01",
+  "licence": "CC0"
+ },
+ "brass_vase_03": {
+  "kind": "model",
+  "title": "Brass Vase 03",
+  "authors": [
+   "Rico Cilliers"
+  ],
+  "dimensions_mm": [
+   82.50189200043678,
+   82.50195905566216,
+   200.36906062159687
+  ],
+  "url": "https://polyhaven.com/a/brass_vase_03",
+  "licence": "CC0"
+ },
+ "WoodenTable_02": {
+  "kind": "model",
+  "title": "Wooden Table 02",
+  "authors": [
+   "Fran Calvente"
+  ],
+  "dimensions_mm": [
+   300.67646503448486,
+   300.67646503448486,
+   417.6570537537643
+  ],
+  "url": "https://polyhaven.com/a/WoodenTable_02",
+  "licence": "CC0"
+ },
+ "wooden_stool_02": {
+  "kind": "model",
+  "title": "Wooden Stool 02",
+  "authors": [
+   "Kuutti Siitonen"
+  ],
+  "dimensions_mm": [
+   265.1771306991577,
+   183.12730640172958,
+   181.92848344915546
+  ],
+  "url": "https://polyhaven.com/a/wooden_stool_02",
+  "licence": "CC0"
+ },
+ "folding_wooden_stool": {
+  "kind": "model",
+  "title": "Folding Wooden Stool",
+  "authors": [
+   "Ulan Cabanilla"
+  ],
+  "dimensions_mm": [
+   527.8338193893433,
+   547.0837950706482,
+   441.96850061416626
+  ],
+  "url": "https://polyhaven.com/a/folding_wooden_stool",
+  "licence": "CC0"
+ },
+ "wicker_basket_01": {
+  "kind": "model",
+  "title": "Wicker Basket 01",
+  "authors": [
+   "Kuutti Siitonen"
+  ],
+  "dimensions_mm": [
+   383.2242637872696,
+   295.01520097255707,
+   117.42293369024992
+  ],
+  "url": "https://polyhaven.com/a/wicker_basket_01",
+  "licence": "CC0"
+ },
+ "vintage_wooden_drawer_01": {
+  "kind": "model",
+  "title": "Vintage Wooden Drawer 01",
+  "authors": [
+   "James Ray Cock"
+  ],
+  "dimensions_mm": [
+   1715.1139974594116,
+   1006.912887096405,
+   1090.839296579361
+  ],
+  "url": "https://polyhaven.com/a/vintage_wooden_drawer_01",
+  "licence": "CC0"
+ }
+}

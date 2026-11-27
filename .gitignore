@@ -1,0 +1,31 @@
+# Unreal generated
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+.vs/
+.vscode/
+*.code-workspace
+*.sln
+*.xcworkspace
+Makefile
+CMakeLists.txt
+*.pro
+*.pri
+*.kdev4
+
+# Plugins build output
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+.ue_root
+
+# Packaged builds (rebuild with RunUAT, see Packaged/HOW_TO_RUN.txt)
+Packaged/
+
+# Raw downloads and intermediate art (re-created by Scripts/download_polyhaven.py and SourceArt/tools/*)
+SourceArt/downloads/
+SourceArt/prepared/
+
+# Python caches
+__pycache__/
+*.pyc
