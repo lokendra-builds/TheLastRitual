@@ -1,11 +1,34 @@
 # The Last Ritual
 
-A first-person horror game set in an abandoned Rajasthani haveli, closed since 1987.
-You are Arjun, a ghost hunter with his grandfather's notebook. Each night a different spirit
-haunts the house: find its signs, work out which ghost it is, and perform the right ritual
+**An Unreal Engine 5 first-person horror game set in an abandoned Indian haveli.** Hunt clues, identify the ghost,
+survive her hunts and banish her with the right ritual. Written in C++, runs on Linux.
+
+![Unreal Engine 5.8](https://img.shields.io/badge/Unreal%20Engine-5.8-0E1128?logo=unrealengine)
+![C++](https://img.shields.io/badge/C%2B%2B-20-00599C?logo=cplusplus)
+![Linux](https://img.shields.io/badge/platform-Linux-FCC624?logo=linux&logoColor=black)
+![Vulkan](https://img.shields.io/badge/renderer-Vulkan%20%2B%20Lumen-AC162C?logo=vulkan)
+![Status](https://img.shields.io/badge/status-Night%201%20playable-2f7a46)
+
+<p align="center">
+  <img src="docs/social-preview.jpg" alt="The Last Ritual key art: a ghost hunter with a torch in a moonlit Rajasthani haveli courtyard" width="100%">
+</p>
+
+You are Arjun, a ghost hunter with his grandfather's notebook, in a Rajasthani haveli closed since 1987.
+Each night a different spirit haunts the house: find its signs, work out which ghost it is, and perform the right ritual
 before it takes you. Or fight back with the Gun Torch.
 
 Built with **Unreal Engine 5.8.4** (C++), developed on Ubuntu 24.04 (Vulkan).
+
+## Screenshots
+
+| | |
+|---|---|
+| ![Moonlit courtyard with the well](docs/screenshots/courtyard.jpg) | ![The Mirror Woman during a hunt](docs/screenshots/ghost.jpg) |
+| Moonlit courtyard and the well | The Mirror Woman comes for you |
+| ![Red arrow warning where the ghost is coming from](docs/screenshots/ghost-warning.jpg) | ![Glowing path on the floor to the next clue](docs/screenshots/floor-path.jpg) |
+| "She's coming": the hunt warning | A glowing path leads to the next clue |
+| ![Gadget shop](docs/screenshots/shop.jpg) | ![Map of the haveli](docs/screenshots/map.jpg) |
+| Gadget shop | Map of the haveli |
 
 ## Gameplay video
 
