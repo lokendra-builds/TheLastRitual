@@ -101,7 +101,6 @@ Packaged/Linux/TheLastRitual.sh
 | `Scripts/` | Editor Python: builds the haveli, ghosts, materials, imports art; `shot.sh` takes test screenshots |
 | `Content/` | Generated level, ghost data, materials, imported CC0 art (Git LFS) |
 | `Config/` | Engine/game settings (Lumen, Vulkan SM6, nav mesh, cook list) |
-| `TASKS.md` | Everything built so far, round by round |
 
 ## Testing aids
 

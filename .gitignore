@@ -32,3 +32,6 @@ __pycache__/
 
 # Private notes, research and reference art (kept locally only)
 context/
+
+# Work log (kept locally only)
+TASKS.md
