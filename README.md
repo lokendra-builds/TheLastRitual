@@ -8,6 +8,7 @@ survive her hunts and banish her with the right ritual. Written in C++, runs on 
 ![Linux](https://img.shields.io/badge/platform-Linux-FCC624?logo=linux&logoColor=black)
 ![Vulkan](https://img.shields.io/badge/renderer-Vulkan%20%2B%20Lumen-AC162C?logo=vulkan)
 ![Status](https://img.shields.io/badge/status-Night%201%20playable-2f7a46)
+![License: MIT](https://img.shields.io/badge/license-MIT-blue)
 
 <p align="center">
   <img src="docs/social-preview.jpg" alt="The Last Ritual key art: a ghost hunter with a torch in a moonlit Rajasthani haveli courtyard" width="100%">
@@ -116,3 +117,8 @@ Launch flags used for automated tests: `-FastHunts`, `-AutoHide`, `-AutoFight=<s
 
 All third-party art is CC0 from [Poly Haven](https://polyhaven.com) (sources in `SourceArt/polyhaven_manifest.json`).
 No audio files: all sound is generated in code.
+
+## License
+
+The code and project files are released under the [MIT License](LICENSE).
+Third-party art from Poly Haven is CC0 and keeps its own licence.
