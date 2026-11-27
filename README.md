@@ -101,7 +101,6 @@ Packaged/Linux/TheLastRitual.sh
 | `Scripts/` | Editor Python: builds the haveli, ghosts, materials, imports art; `shot.sh` takes test screenshots |
 | `Content/` | Generated level, ghost data, materials, imported CC0 art (Git LFS) |
 | `Config/` | Engine/game settings (Lumen, Vulkan SM6, nav mesh, cook list) |
-| `context/` | Original design doc, art references, asset licences |
 | `TASKS.md` | Everything built so far, round by round |
 
 ## Testing aids
@@ -117,4 +116,4 @@ Launch flags used for automated tests: `-FastHunts`, `-AutoHide`, `-AutoFight=<s
 ## Assets and licences
 
 All third-party art is CC0 from [Poly Haven](https://polyhaven.com); every asset is listed in
-[`context/asset-licences.md`](context/asset-licences.md). No audio files: all sound is generated in code.
+[`docs/ASSET-LICENCES.md`](docs/ASSET-LICENCES.md). No audio files: all sound is generated in code.

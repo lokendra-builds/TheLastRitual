@@ -29,3 +29,6 @@ SourceArt/prepared/
 # Python caches
 __pycache__/
 *.pyc
+
+# Private notes, research and reference art (kept locally only)
+context/
